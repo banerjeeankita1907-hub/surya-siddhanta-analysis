@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.csv
+*.npz
+.DS_Store
+results/*.png
