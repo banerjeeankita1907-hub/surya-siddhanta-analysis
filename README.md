@@ -2,8 +2,7 @@
 
 This repository contains the code and data for the research paper:
 **"Re‑evaluating Siddhāntic Planetary Algorithms through Modern Computational and Data‑Analytic Techniques"**  
-by Ankita Banerjee, submitted to *Vakyartha Bharati
-* (2026).
+by Ankita Banerjee, submitted to *Vakyartha Bharati* (2026).
 
 ## Overview
 We compare the planetary longitude formulas from the ancient Indian text *Sūrya‑Siddhānta* with NASA JPL’s DE441 ephemeris over the years 1900–2025. The analysis includes:
